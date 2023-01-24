@@ -1,0 +1,15 @@
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\bin\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.exe
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\bin\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.deps.json
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\bin\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.runtimeconfig.json
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\bin\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.dll
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\bin\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.pdb
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\obj\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.csproj.AssemblyReference.cache
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\obj\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\obj\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.AssemblyInfoInputs.cache
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\obj\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.AssemblyInfo.cs
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\obj\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.csproj.CoreCompileInputs.cache
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\obj\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.dll
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\obj\Debug\net7.0\refint\Learning-Activity---C-Prep-3--Loops.dll
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\obj\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.pdb
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\obj\Debug\net7.0\Learning-Activity---C-Prep-3--Loops.genruntimeconfig.cache
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-3--Loops\obj\Debug\net7.0\ref\Learning-Activity---C-Prep-3--Loops.dll
